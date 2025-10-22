@@ -30,5 +30,7 @@ class Day1 {
         System.out.println(obj.isPalindrome(10));   
         System.out.println(obj.isPalindrome(1221)); 
         System.out.println(obj.isPalindrome(12345));
+        System.out.println(obj.isPalindrome(0));
+
     }
 }
