@@ -1,3 +1,4 @@
+// Given an integer x, return true if x is a palindrome, and false otherwise.
 class Day1 {
     public boolean isPalindrome(int x) {
         if (x < 0) {
