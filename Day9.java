@@ -44,5 +44,9 @@ public class Day9 {
         int[] nums9 = {2};
         int[] nums10 = {};
         System.out.println("Test 5: " + solution.findMedianSortedArrays(nums9, nums10)); 
+
+        int[] nums11 = {1, 2};
+        int[] nums12 = {3, 4, 5};
+        System.out.println("Test 6: " + solution.findMedianSortedArrays(nums11, nums12));
     }
 }
