@@ -24,6 +24,6 @@ class Day10 {
         System.out.println("Missing number in [3, 0, 1]: " + solution.missingNumber(nums1));
         System.out.println("Missing number in [0, 1]: " + solution.missingNumber(nums2));
         System.out.println("Missing number in [9, 6, 4, 2, 3, 5, 7, 0, 1]: " + solution.missingNumber(nums3));
-        System.out.println("Missing number in [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]: " + solution.missingNumber(nums4));
+        System.out.println("Missing number in [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]: " + solution.missingNumber(nums4));   
     }
 }
