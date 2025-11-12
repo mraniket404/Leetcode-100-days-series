@@ -1,7 +1,6 @@
-// 🚀 Day 22 of #100DaysOfLeetCode
+
 // 🔹 Problem: Find First and Last Position of Element in Sorted Array
-// 💡 Author: Aniket Santosh Gosavi 💪
-// 🎯 Concept: Modified Binary Search (Find Boundaries)
+
 
 class Day22 {
     public int[] searchRange(int[] nums, int target) {
