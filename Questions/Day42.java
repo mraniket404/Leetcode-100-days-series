@@ -28,7 +28,6 @@ public class Day42 {
             return pq.peek();
     }
 
-    // For Testing in VS Code
     public static void main(String[] args) {
         Day42 obj = new Day42();
         int[] stones = {2, 7, 4, 1, 8, 1};
